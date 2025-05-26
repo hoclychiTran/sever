@@ -153,6 +153,7 @@ html, body {
 }
 
 .main .information {
+    height: 500px;
     min-height: 300px;
     position: relative;
     z-index: 2;
