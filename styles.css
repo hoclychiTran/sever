@@ -84,7 +84,7 @@ html, body {
 .main {
     position: relative;
     z-index: 2;
-    margin-top: 10px;
+    margin-top: 5px;
     height: 100%;
 }
 
@@ -133,7 +133,7 @@ html, body {
 /* Tiêu đề và caption */
 .main .logo .colum #logo-title {
     position: relative;
-    top: 20px;
+    top: 5px;
     margin-left: 15px;
     margin-bottom: 5px;
     font-size: 26px;
@@ -141,7 +141,7 @@ html, body {
 
 .main .logo .colum #caption {
     position: relative;
-    top: 15px;
+    top: 0px;
     left: 35px;
 }
 
